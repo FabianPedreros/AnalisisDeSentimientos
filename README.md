@@ -1,0 +1,2 @@
+# AnalisisDeSentimientos
+En este proyecto se realiza un ejercicio básico para efectuar la extracción de datos de un tema de interés en Twitter, comoo lo son las elecciones presidenciales en Colombia efectuadas el 29 de mayo de 2022, procesar los textos de 5000 tweets y así establecer cuál es la polaridad de cada uno de ellos, además de la generación de una nube de términos qué permita establecer las temáticas tratadas.
